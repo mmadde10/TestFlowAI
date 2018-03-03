@@ -1,8 +1,9 @@
 # TestFlowAI
-Testing AI
+ My Repo to learn ML and Tensor Flow using Google ML Training. 
 
 ## Warning!
-This version of Tensorflow is not optimized for CPU. If you have a GPU then you are fine. CPU will work but will throw some warnings. To optimize please [Build from Source](https://www.tensorflow.org/install/install_sources)
+* This version of Tensorflow is not optimized for CPU. If you have a GPU then you are fine. CPU will work but will throw some warnings. To optimize please [Build from Source](https://www.tensorflow.org/install/install_sources)
+* This source code is meant for educational purposes only. 
 
 
 
@@ -32,6 +33,4 @@ This version of Tensorflow is not optimized for CPU. If you have a GPU then you 
   * This repo creates a model based on California house prices. This Repo is meant for training purposes only.
   
 ## Start
-  * ```sh 
-    python main.py
-  ```
+  * ```python main.py```
